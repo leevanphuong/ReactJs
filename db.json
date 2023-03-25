@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 12",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0s4lgcKhz_I8NZCRGMyBGZgBRFR__DJV9w&usqp=CAU",
+      "price": 345000,
+      "categories": "Dien thoai"
+    },
+    {
+      "id": 2,
+      "name": "SamSung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleaup_KQy2wJiFlsj5m7ErN6eafjdUmSndQ&usqp=CAU",
+      "price": 34000,
+      "categories": "Dien thoai"
+    },
+    {
+      "name": "Ford cho gia đình",
+      "price": "123123",
+      "image": "https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/336998169_161412220153749_6600361195131300340_n.jpg?stp=dst-jpg_p526x296&_nc_cat=1&ccb=1-7&_nc_sid=2c4854&_nc_ohc=IZe5cs4jtzkAX_yG0-4&_nc_ht=scontent.fsgn2-6.fna&oh=00_AfCv_MTcgX82te3itt9ALQJ9vjuiGDCfjN88f1JMr0sSIA&oe=64243B7B",
+      "categories": "SamSung",
+      "id": 3
+    }
+  ]
+}
